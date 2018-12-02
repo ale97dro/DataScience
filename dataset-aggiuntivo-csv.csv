@@ -1,0 +1,57 @@
+continent,country,flagship
+Europe,Irland,True
+Europe,Russia,True
+South America,Argentine,True
+North America,Mexico,True
+North America,Canada,True
+Europe,France,True
+Asia,India,True
+Oceania,New Zeland,True
+North America,United States,True
+Europe,Italy,True
+Asia,Japan,True
+North America,United States,True
+Europe,Austria,True
+South America,Colombia,True
+Europe,Great Britain,True
+Asia,China,False
+Asia,China,True
+Europe,Germany,False
+North America,Panama,True
+North America,United States,True
+Africa,Egypt,True
+Europe,Israel,True
+Africa,Ethiopia,True
+Europe,Finland,True
+Asia,Indonesia,True
+Asia,Bahrein,True
+North America,United States,True
+Europe,Spain,True
+Asia,Japan,True
+Africa,Kenya,True
+Europe,Holland,True
+Asia,South Korea,True
+South America,Chile,True
+Europe,Germany,True
+Asia,Malaysia,True
+Asia,Pakistan,True
+Asia,Philippine,True
+Oceania,Australia,True
+Africa,Morocco,True
+Europe,Sweden-Dennmark-Norway,True
+Asia,Saudi Arabia,True
+Asia,Singapore,True
+Africa,South Africa,True
+North America,United States,False
+Asia,Sri Lanka,True
+Europe,Switzerland,True
+North America,El Salvador,False
+South America,Brazil,False
+Europe,Portugal,True
+Asia,Thailand,True
+Europe,Turkey,True
+North America,United States,True
+North America,United States,False
+Asia,Vietnam,True
+Europe,Great Britain,False
+Asia,China,True
